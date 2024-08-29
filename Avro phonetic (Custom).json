@@ -1,12 +1,12 @@
 {
-    "name": "Avro Phonetic",
+    "name": "Avro Phonetic (Custom)",
     "type": "layout",
     "lan-eng": false,
     "lang": "Bangla",
-    "version": "1",
+    "version": "2",
     "phonetic": true,
     "developerName": "Mehdi Hasan (OmicronLab)  [Modified by Nabil for Nms Kontho]",
-    "developerConctInfo": "",
+    "developerConctInfo": "01689865823 this was edited online.",
     "macroTranslate": false,
     "non_zoiner_list": [
         "!",
